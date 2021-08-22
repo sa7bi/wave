@@ -1,0 +1,9 @@
+<footer class="site-footer container medium">
+    <div class="copyright">
+        Powered by <a href="https://ghost.org/" target="_blank">Ghost</a>
+    </div>
+</footer>
+
+{{^is "post"}}
+    {{> player is_external=true}}
+{{/is}}

@@ -1,5 +1,7 @@
 # Wave
 
+<img width="1167" alt="Screenshot 2021-08-22 at 14 07 04" src="https://user-images.githubusercontent.com/544079/130354487-151b7945-4e13-4823-b309-342f58559b02.png">
+
 A theme dedicated to podcasters and bloggers. Embrace your creativity with ease. Completely free and fully responsive, released under the MIT license.
 
 **Demo: https://wave.ghost.io**
